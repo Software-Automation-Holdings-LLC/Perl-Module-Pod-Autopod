@@ -1,0 +1,14 @@
+{
+  ".eslintrc.json": {
+    "version": "fd9a0fb",
+    "source": "https://github.com/Software-Automation-Holdings-LLC/developer-common/blob/8d1fc342aa011694119f8ed188fe04e1b4790d56/configs/.eslintrc.json"
+  },
+  ".prettierrc.json": {
+    "version": "4e058d4",
+    "source": "https://github.com/Software-Automation-Holdings-LLC/developer-common/blob/8d1fc342aa011694119f8ed188fe04e1b4790d56/configs/.prettierrc.json"
+  },
+  ".stylelintrc.json": {
+    "version": "efeb8e1",
+    "source": "https://github.com/Software-Automation-Holdings-LLC/developer-common/blob/8d1fc342aa011694119f8ed188fe04e1b4790d56/configs/.stylelintrc.json"
+  }
+}

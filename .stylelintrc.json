@@ -1,0 +1,21 @@
+{
+  "extends": ["stylelint-config-standard"],
+  "rules": {
+    "color-hex-length": null,
+    "color-named": null,
+    "property-no-vendor-prefix": null,
+    "value-no-vendor-prefix": null,
+    "function-url-quotes": null,
+    "font-weight-notation": null,
+    "color-function-notation": null,
+    "alpha-value-notation": null,
+    "font-family-name-quotes": null,
+    "selector-attribute-quotes": null
+  },
+  "ignoreFiles": [
+    "**/vendor/**",
+    "**/node_modules/**",
+    "**/dist/**",
+    "**/build/**"
+  ]
+}
